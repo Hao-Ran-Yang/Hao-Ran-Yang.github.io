@@ -28,54 +28,112 @@ Beyond academics, I am passionate about orienteering. As a student-athlete on SY
 - *2024.07*: One paper is accepted by ECCV 2024 as oral paper. 
 
 # 📝 Publications 
-<!-- the 3rd paper -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
+
+<div class="publications-container">
+  <!-- Paper 1 -->
+  <div class='paper-box'>
+    <div class='paper-box-image'>
       <div class="badge">NeurIPS 2025</div>
-      <img src='/images/POTT.png' alt="POTT" style="max-width: 300px; width: 100%; height: auto; display: block;">
+      <img src='/images/POTT.png' alt="POTT" style="max-width: 280px; height: auto;">
+    </div>
+    <div class='paper-box-text'>
+      <p><strong><a href="https://arxiv.org/pdf/2505.01281">A Physics-preserved Transfer Learning Method for Differential Equations</a></strong></p>
+      <p><strong>Hao-Ran Yang</strong>, Chuan-Xian Ren</p>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-[A Physics-preserved Transfer Learning Method for Differential Equations](https://arxiv.org/pdf/2505.01281)
 
-**Hao-Ran Yang**, Chuan-Xian Ren
-  </div>
-</div>
-
-<!-- the 2nd paper -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
+  <!-- Paper 2 -->
+  <div class='paper-box'>
+    <div class='paper-box-image'>
       <div class="badge">NeurIPS 2025</div>
-      <img src='/images/GLSGE.png' alt="GLSGE" style="max-width: 300px; width: 100%; height: auto; display: block;">
+      <img src='/images/GLSGE.png' alt="GLSGE" style="max-width: 280px; height: auto;">
+    </div>
+    <div class='paper-box-text'>
+      <p><strong><a href="https://arxiv.org/pdf/2505.13043">A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation</a></strong></p>
+      <p><strong>Hao-Ran Yang</strong>, Xiaohui Chen, Chuan-Xian Ren</p>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-[A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation](https://arxiv.org/pdf/2505.13043)
 
-**Hao-Ran Yang**, Xiaohui Chen, Chuan-Xian Ren
+  <!-- Paper 3 -->
+  <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div class="badge">ECCV 2024 <strong>oral</strong></div>
+      <img src='/images/COD.png' alt="COD" style="max-width: 280px; height: auto;">
+    </div>
+    <div class='paper-box-text'>
+      <p><strong><a href="https://arxiv.org/pdf/2408.06638">COD: Learning Conditional Invariant Representation for Domain Adaptation Regression</a></strong></p>
+      <p><strong>Hao-Ran Yang</strong>, Chuan-Xian Ren, You-Wei Luo</p>
+    </div>
   </div>
 </div>
 
-<!-- the 1st paper -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ECCV 2024 **oral**</div>
-      <img src='/images/COD.png' alt="COD" style="max-width: 300px; width: 100%; height: auto; display: block;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-[COD: Learning Conditional Invariant Representation for Domain Adaptation Regression](https://arxiv.org/pdf/2408.06638?)
+<style>
+.paper-box {
+  display: flex;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: #fafafa;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
 
-**Hao-Ran Yang**, Chuan-Xian Ren, You-Wei Luo
-  </div>
-</div>
+.paper-box-image {
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.paper-box-image img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+.badge {
+  background: #2c3e50;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.paper-box-text {
+  flex: 1;
+}
+
+.paper-box-text p {
+  margin: 0.5rem 0;
+}
+
+.paper-box-text a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.paper-box-text a:hover {
+  text-decoration: underline;
+  color: #3498db;
+}
+
+@media (max-width: 768px) {
+  .paper-box {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+  
+  .paper-box-image img {
+    max-width: 200px !important;
+  }
+}
+</style>
 
 # 🎖 Honors and Awards
 - *2023.09* First Prize of Outstanding Student Scholarship of Sun Yat-sen University
-- *2023.08* Eight place of Chinese Student Orienteering Championship, Men’s Group A
+- *2023.08* Eight place of Chinese Student Orienteering Championship, Men's Group A
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, M.S. in School of Mathematics, Sun Yat-Sen University
