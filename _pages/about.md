@@ -248,5 +248,8 @@ Beyond academics, I am passionate about orienteering. As a student-athlete on SY
 - *2023.09 - 2026.06 (now)*,&nbsp; M.S. in School of Mathematics, Sun Yat-Sen University
 - *2019.09 - 2023.06*,&nbsp; B.S. in School of Mathematics, Sun Yat-Sen University
 
-- # Talks
+# Talks
 - *2024.10*.&nbsp; Oral presentation at ECCV 2024, Milano
+
+# Reviewer
+- PRCV 2024, 2025
