@@ -23,11 +23,14 @@ I am always open to research collaborations and internship opportunities—pleas
 
 Beyond academics, I am passionate about orienteering. As a student-athlete on SYSU's orienteering team, I have represented the school in Chinese Orienteering Championship and other major competitions. I deeply enjoy the process of reading maps, exploring the unknown, and reaching checkpoints, which gives me a unique sense of freedom and accomplishment.
 
+
 # 🔥 News
+<span class='News' id='-news'></span>
 - *2025.09*: Two papers are accepted by NeurIPS 2025. 
 - *2024.07*: One paper is accepted by ECCV 2024 as oral paper. 
 
 # Publications 
+<span class='Publications' id='-publications'></span>
 
 <div class="publications-grid">
 
@@ -241,15 +244,19 @@ Beyond academics, I am passionate about orienteering. As a student-athlete on SY
 
 
 # Honors and Awards
+<span class='Honors and Awards' id='-honors-and-awards'></span>
 - *2023.09*.&nbsp; First Prize of Outstanding Student Scholarship of Sun Yat-sen University
 - *2023.08*.&nbsp; Eight place of Chinese Student Orienteering Championship, Men's Group A
 
 # Educations
+<span class='Educations' id='-educations'></span>
 - *2023.09 - 2026.06 (now)*,&nbsp; M.S. in School of Mathematics, Sun Yat-Sen University
 - *2019.09 - 2023.06*,&nbsp; B.S. in School of Mathematics, Sun Yat-Sen University
 
 # Talks
+<span class='Talks' id='-talks'></span>
 - *2024.10*.&nbsp; Oral presentation at ECCV 2024, Milano
 
 # Reviewer
+<span class='Reviewer' id='-reviewer'></span>
 - PRCV 2024, 2025
