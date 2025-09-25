@@ -29,21 +29,21 @@ Beyond academics, I am passionate about orienteering. As a student-athlete on SY
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/POTT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/POTT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Physics-preserved Transfer Learning Method for Differential Equations](https://arxiv.org/pdf/2505.01281)
 
 **Hao-Ran Yang**, Chuan-Xian Ren
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GLSGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/GLSGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation](https://arxiv.org/pdf/2505.13043)
 
 **Hao-Ran Yang**, Xiaohui Chen, Chuan-Xian Ren
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 **oral**</div><img src='images/COD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 **oral**</div><img src='../images/COD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [COD: Learning Conditional Invariant Representation for Domain Adaptation Regression](https://arxiv.org/pdf/2408.06638?)
