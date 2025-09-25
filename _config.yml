@@ -21,7 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao-Ran Yang (杨浩然)"
+  name             : |  
+    Hao-Ran Yang
+    杨浩然
   avatar           : "images/profile.jpg"
   bio              : "Sun Yat-sen University"
   location         : "Guangzhou, China"
