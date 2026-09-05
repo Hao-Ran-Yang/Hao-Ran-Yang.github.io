@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Hao-Ran Yang (officially, Haoran Yang), a third-year master's student in the School of Mathematics at Sun Yat-sen University (SYSU), where I also completed my bachelor's degree. My research interests lie in applied mathematics and machine learning. I am particularly interested in how prior knowledge can be mathematically modeled and integrated into the design, training, and adaptation of models. 
+Hi! I'm Hao-Ran Yang (officially, Haoran Yang), a first-year PhD student in the Department of Computer Science at City University of Hong Kong (CityU), supervised by [Prof. Chen Liu](https://liuchen1993.cn/HomePage/index.html). I obtained a master's degree and a bachelor's degree in the School of Mathematics at Sun Yat-sen University (SYSU). My research interests now lies in the post-training of Large Models, particular in efficiency and alignment. I am also particularly interested in how prior knowledge can be mathematically modeled and integrated into the design, training, and inference of models. 
 
 I am always open to research collaborations and internship opportunities—please feel free to drop me an email if you are interested in working with me.   
 
@@ -26,6 +26,7 @@ Beyond academics, I am passionate about orienteering. As a student-athlete on SY
 
 # 🔥 News
 <span class='News' id='-news'></span>
+- *2026.09*: Start my PhD study in CityU.
 - *2025.09*: Two papers are accepted by NeurIPS 2025. 
 - *2024.07*: One paper is accepted by ECCV 2024 as oral paper. 
 
